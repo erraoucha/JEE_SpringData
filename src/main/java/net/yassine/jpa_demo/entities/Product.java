@@ -1,4 +1,6 @@
-package net.yassine.entities;
+package net.yassine.jpa_demo.entities;
+
+ 
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
